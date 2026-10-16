@@ -94,7 +94,8 @@ h2 {
 }
 .logo img {
   display: block;
-  width: 250px;
+  width: 25vw;
+  max-width: 250px;
 }
 nav ul {
   display: flex;
@@ -206,7 +207,7 @@ nav a:hover::after {
   margin: 0;
 }
 .menu-note {
-  line-height: 1.2;
+  line-height: 1.5;
 }
 .menu-note p {
   margin: 0;
